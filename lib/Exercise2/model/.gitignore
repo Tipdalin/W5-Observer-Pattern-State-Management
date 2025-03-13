@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow only the lib/ directory
+!lib/
+!lib/**
+
+# Allow .gitignore itself
+!.gitignore
